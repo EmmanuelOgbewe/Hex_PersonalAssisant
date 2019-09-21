@@ -1,5 +1,7 @@
 # personal_assistant
 
+Application design inspired by https://dribbble.com/shots/5135248-Personal-Assistant-App-More-gestures
+
 A new Flutter project.
 
 ## Getting Started
